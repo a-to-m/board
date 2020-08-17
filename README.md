@@ -32,8 +32,8 @@ PCB for an a-το-m building block, with:
 
 Design objectives for now:
 
-  * Target a production run of about 25 building blocks. Then we can
-    test the product in the wild, with five sets of five blocks.
+  * Target a production run of 25 building blocks. Then we can test
+    the product in the wild, with five sets of five blocks.
 
   * Design for quick PCBA (if using Seeed Fusion, then use their
     OPLs). That allows us to iterate quickly.
