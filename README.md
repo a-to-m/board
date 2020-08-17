@@ -4,16 +4,19 @@ PCB for an a-το-m building block, with:
 
   * MCU, maybe ESP8266 (see requirements below)
 
-  * Connectivity to wireless mesh network, maybe ESP-Mesh (to
-    communicate with base station)
-
   * About two dozen programmable LEDs
 
-  * Six IR ports for sending/receiving the ID to/from the connected
-    boards (super low bandwidth)
+  * Six IR ports for sending/receiving the block ID to/from the
+    connected blocks (super low bandwidth)
 
   * Connector for small LiPo battery, allowing the board to run for
     about an hour
+
+  * Connectivity to wireless mesh network, maybe ESP-Mesh, for:
+    
+      - Sending IDs of connected building blocks to base station.
+      
+      - Receiving from base station how the LEDs should be programmed.
 
   * Stackable charging connectors, as found in disc shaped restaurant
     pagers
