@@ -30,6 +30,14 @@ PCB for an a-το-m building block, with:
 
   * Charger for the battery.
 
+Design objectives for now:
+
+  * Target a production run of about 25 building blocks. Then we can
+    test the product in the wild, with five sets of five blocks.
+
+  * Design for quick PCBA (if using Seeed Fusion, then use their
+    OPLs). That allows us to iterate quickly.
+
 The base station communicates by Wi-Fi with another device, such as a
 phone or a PC. For simplicity it may be possible to use the same PCB
 as for a block, but with slightly different firmware, and with a
