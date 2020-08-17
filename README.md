@@ -37,6 +37,8 @@ Design objectives for now:
 
   * Design for quick PCBA (if using Seeed Fusion, then use their
     OPLs). That allows us to iterate quickly.
+    
+  * Prefer ease of development over cost.
 
 The base station communicates by Wi-Fi with another device, such as a
 phone or a PC. For simplicity it may be possible to use the same PCB
