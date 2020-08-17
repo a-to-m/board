@@ -1,4 +1,16 @@
-PCB for an a-το-m building block, with:
+About
+=====
+
+*a-το-m* is a construction system which serves as a platform for games
+and education. It received the [first price][1] in the FabCafe’s *2020
+Innovative Game Design Challenge.* Learn more about a-το-m by studying
+the [entry][2] submitted to the challenge.
+
+This repository is about the PCB for an a-το-m building block.
+
+
+PCB features
+============
 
   * Hexagonal symmetry.
 
@@ -31,7 +43,11 @@ PCB for an a-το-m building block, with:
 
   * Charger for the battery.
 
-Design objectives for now:
+
+Design objectives
+=================
+
+For now:
 
   * Target a production run of 25 building blocks. Then we can test
     the product in the wild, with five sets of five blocks.
@@ -41,6 +57,10 @@ Design objectives for now:
     
   * Prefer ease of development over cost.
 
+
+Base station
+============
+
 The base station communicates by Wi-Fi with another device, such as a
 phone or a PC. For simplicity it may be possible to use the same PCB
 as for a block, but with slightly different firmware, and with a
@@ -48,3 +68,6 @@ connector for power.
 
 ![Rendering showing blocks stacked on base station, with PCB
 exposed](rendering.jpg)
+
+[1]: https://awrd.com/en/award/game-design-challenge-learning/result
+[2]: https://awrd.com/en/creatives/detail/9877896
