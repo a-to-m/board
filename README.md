@@ -31,7 +31,9 @@ PCB features
     be RGB.
 
   * Six IR ports for sending/receiving the block ID to/from the
-    connected blocks (super low bandwidth).
+    connected blocks (super low bandwidth). In previous similar
+    projects, [feklee][4] has done this using his library
+    [MultiTrans][3], currently only available for the Arduino.
 
   * Connector for small LiPo battery, allowing the board to run for
     about an hour.
@@ -71,3 +73,5 @@ exposed](rendering.jpg)
 
 [1]: https://awrd.com/en/award/game-design-challenge-learning/result
 [2]: https://awrd.com/en/creatives/detail/9877896
+[3]: https://github.com/feklee/MultiTrans/
+[4]: https://github.com/feklee
