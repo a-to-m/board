@@ -2,9 +2,9 @@ About
 =====
 
 *a-το-m* is a construction system which serves as a platform for games
-and education. It received the [first price][1] in the FabCafe’s *2020
-Innovative Game Design Challenge.* Learn more about a-το-m by studying
-the [entry][2] submitted to the challenge.
+and education. It received the [first price][1] in FabCafe’s *2020
+Innovative Game Design Challenge.* Find more about a-το-m by looking
+at our [entry to the challenge][2].
 
 This repository is about the PCB for an a-το-m building block.
 
