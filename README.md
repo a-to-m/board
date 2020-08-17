@@ -15,7 +15,8 @@ PCB for an a-το-m building block, with:
           + Receiving from base station how the LEDs should be
             programmed.
 
-  * About two dozen programmable LEDs.
+  * A few dozen individually addressable LEDs. Not all of them need to
+    be RGB.
 
   * Six IR ports for sending/receiving the block ID to/from the
     connected blocks (super low bandwidth).
